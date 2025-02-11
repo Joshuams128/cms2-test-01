@@ -1,0 +1,19 @@
+# DS generated files
+.DS_Store
+.DS_Store?
+._*
+._Spotlight-V100
+.Trashes
+ethumbs.db
+Thumbs.db
+
+#Debug files
+*.log
+.*.sql
+
+
+#Wordpress standard files/folder
+uploads
+upgrade
+
+#Wordpress plugin folders
