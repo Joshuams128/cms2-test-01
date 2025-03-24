@@ -2,3 +2,18 @@
     content: '>';
     margin-left: 20px;
 }
+
+.wc-block-components-product-image  a img{
+    width: 19rem !important;
+    height: 15rem !important;
+    background-color:rgb(190, 134, 38);
+    object-fit: cover !important;
+    padding: 1rem;
+
+} 
+img .attachment-woocommerce_thumbnail{
+    display: block;
+    margin: 0 auto;
+    
+    
+}
