@@ -3,6 +3,7 @@
     margin-left: 20px;
 }
 
+/* Image a */
 .wc-block-components-product-image  a img{
     width: 19rem !important;
     height: 15rem !important;
@@ -11,6 +12,8 @@
     padding: 1rem;
 
 } 
+
+
 img .attachment-woocommerce_thumbnail{
     display: block;
     margin: 0 auto;
