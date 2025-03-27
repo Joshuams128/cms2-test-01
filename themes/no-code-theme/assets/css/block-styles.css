@@ -20,3 +20,17 @@ img .attachment-woocommerce_thumbnail{
     
     
 }
+
+/* cart checkout button */
+    .wc-block-components-button:not(.is-link){
+        
+        font-size: 1rem;
+    }
+
+
+/* mobile screen */
+    @media screen and (max-width: 480px) { /* For mobile screens */
+        .wc-block-components-button:not(.is-link){
+            font-size: 1rem;
+        }
+    }
