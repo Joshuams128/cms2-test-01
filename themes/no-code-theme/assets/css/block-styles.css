@@ -34,8 +34,8 @@ img .attachment-woocommerce_thumbnail{
         }
 
         .wp-block-cover__background .has-background-dim{
-            width: 5px !important;
-            height: 5px !important;
+            width: 5rem !important;
+            height: 5rem !important;
         }
 
   
