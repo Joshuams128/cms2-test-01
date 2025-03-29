@@ -32,4 +32,14 @@ img .attachment-woocommerce_thumbnail{
         .wc-block-components-button:not(.is-link){
             font-size: 1rem;
         }
+
+        .wp-block-cover__background .has-background-dim{
+            width: 5px !important;
+            height: 5px !important;
+        }
+
+  
     }
+
+
+  
